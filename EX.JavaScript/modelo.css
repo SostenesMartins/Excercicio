@@ -1,0 +1,36 @@
+body{
+    background: rgb(87, 212, 250);
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.384);
+    width: 500px;
+    margin: auto;
+    padding: 15px; 
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+#flista{
+    width: 200px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+div{
+    padding: 10px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style:italic;
+}
